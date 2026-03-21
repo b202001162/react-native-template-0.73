@@ -1,1 +1,1 @@
-# react-native-template-0.73
+# VilocityDemoApp
